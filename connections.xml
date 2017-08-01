@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<connections>
+ <connection executeTimeout="60000" connectionTimeout="60000" host="dev.yunva.com" name="dev" auth="393923" port="8344"/>
+ <connection executeTimeout="60000" connectionTimeout="60000" host="6fa18860f32f4374.m.cnhza.kvstore.aliyuncs.com" name="sdk" auth="6fa18860f32f4374:Yunva2015" port="6379"/>
+ <connection executeTimeout="60000" connectionTimeout="60000" host="chat.yunva.com" name="chat" port="6379"/>
+ <connection executeTimeout="60000" connectionTimeout="60000" host="localhost" name="local" port="6379"/>
+ <connection executeTimeout="60000" connectionTimeout="60000" host="123.207.53.138" name="123.207.53.138" port="6379"/>
+</connections>
